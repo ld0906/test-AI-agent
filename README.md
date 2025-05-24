@@ -1,6 +1,6 @@
 运行AI Agent注意事项
 1. 首先激活Python venv环境
-2. 更改正确的Groq的API Key (没有的话，可以去申请，当然也更改框架，不用Groq)
+2. 更改正确的Groq的API Key (没有的话，可以去申请，申请地址：https://console.groq.com/keys，当然也更改框架，不用Groq)
 3. 运行 python main.py
 
 执行结果类似入下图：
